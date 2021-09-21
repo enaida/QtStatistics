@@ -1,1 +1,1 @@
-# QtStatistics
+A user interface has been developed that enables the display, modification and storage of data on students in Databases course. All parameters that affect the final grade of the student (class attendance, class activity, project, test and final exam) are included, as well as the statistics by pass rate, grades and points - in the form of a Pie charts.
